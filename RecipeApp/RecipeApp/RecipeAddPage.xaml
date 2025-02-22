@@ -1,0 +1,285 @@
+﻿<Page x:Class="RecipeApp.RecipeAddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:gif="http://wpfanimatedgif.codeplex.com"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Background="#F0F2F2">
+
+    <Page.Resources>
+        <!-- Button Stili -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" CornerRadius="20" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- MouseOver: Sidebar'ın koyu yeşil tonuna geçsin -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <!-- Koyu yeşil ton -->
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                            <!-- Pressed: Daha da koyu bir yeşil tonuna geçsin -->
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <!-- Daha koyu yeşil ton -->
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="ToggleButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- Hover effect -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                            <!-- Pressed effect -->
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+
+    <Grid>
+        <!-- Grid içinde iki sütun: Sidebar ve içerik -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="sidebarColumn" Width="230"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <Border x:Name="sidebarBorder" Background="#3A5F49" CornerRadius="0,20,20,0" Grid.Column="0" Panel.ZIndex="1">
+            <StackPanel>
+                <ToggleButton x:Name="toggleSidebar" Width="40" Height="40" Margin="10" VerticalAlignment="Top" Content="☰"
+                              FontSize="18" Foreground="White" Background="Transparent" BorderBrush="Transparent"
+                              Checked="ToggleSidebar_Checked" Unchecked="ToggleSidebar_Unchecked"/>
+                <StackPanel x:Name="sidebarContent" Visibility="Visible">
+                    <!-- Menü İçerikleri -->
+                    <Button Click="AnaSayfaButton_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Home" Width="24" Height="24" VerticalAlignment="Center"/>
+                            <TextBlock Text="Ana Sayfa" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnTarifEkle_Click" Background="#2E4F3F">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Silverware" Width="24" Height="24" VerticalAlignment="Center"/>
+                            <TextBlock Text="Tarif Ekle" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+
+                    <Button Click="BtnFavoriler_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Heart" Width="24" Height="24" VerticalAlignment="Center"/>
+                            <TextBlock Text="Favoriler" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnStokIslemleri_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClipboardText" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Stok İşlemleri" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- Ana içerik -->
+        <Grid Grid.Column="1">
+            <!-- Dalgalı Yeşil Alan -->
+            <Grid Height="350" VerticalAlignment="Top">
+                <Border Background="#F0F2F2" ClipToBounds="True">
+                    <Path Fill="#B3D0BE" Data="M0,300 C300,200 1000,400 1600,290 L1600,0 L0,0 Z" VerticalAlignment="Top" Height="323" Stretch="Fill"/>
+                </Border>
+
+                <Grid Margin="80,45,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80" />
+                        <!-- Tarif Adı -->
+                        <RowDefinition Height="80" />
+                        <!-- Hazırlama Süresi -->
+                        <RowDefinition Height="80" />
+                        <!-- Kategori -->
+                    </Grid.RowDefinitions>
+
+                    <!-- Tarif Adı -->
+                    <TextBlock Text="Tarif Adı:" FontSize="28" FontWeight="Bold" Foreground="Black" 
+               HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Height="38" Width="119" />
+                    <TextBox x:Name="yemekAdiTextBox" Text="" FontSize="36" FontWeight="Bold" Foreground="Black"
+             HorizontalAlignment="Left" VerticalAlignment="Center"
+             Width="462" Height="60" Background="Transparent" BorderBrush="Transparent" Margin="144,0,0,0" />
+
+                    <!-- Hazırlama Süresi -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,-20,10,0" VerticalAlignment="Center" Grid.Row="1">
+                        <materialDesign:PackIcon Kind="Clock" Width="28" Height="28" VerticalAlignment="Center" Margin="0,-20,10,0"/>
+                        <TextBlock Text="Hazırlama Süresi:" FontSize="22" FontWeight="Bold" Foreground="Black" VerticalAlignment="Center" Height="30" Width="178" Margin="0,-20,10,0"/>
+                        <TextBox x:Name="hazirlamaSuresiTextBox" FontSize="22" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" Width="127" Height="26" Background="Transparent" BorderBrush="Transparent" TextChanged="hazirlamaSuresiTextBox_TextChanged" Margin="0,-24,10,0" RenderTransformOrigin="0.5,0.5"/>
+                    </StackPanel>
+
+                    <!-- Kategori -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,-70,10,0" VerticalAlignment="Center" Grid.Row="2">
+                        <materialDesign:PackIcon Kind="BookOpenVariant" Width="28" Height="28" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                        <TextBlock Text="Kategori:" FontSize="22" FontWeight="Bold" Foreground="Black" VerticalAlignment="Center" Height="30" Width="95"/>
+                        <ComboBox x:Name="kategoriComboBox" FontSize="22" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" Width="202" SelectionChanged="kategoriComboBox_SelectionChanged" Height="36" Margin="10,0,0,0" RenderTransformOrigin="0.744,0.617"/>
+
+                        <!-- + Butonu -->
+                        <Button Content="+" Width="30" Height="30"  Foreground="Black" Margin="10,0,0,0" Click="AddCategoryButton_Click"/>
+
+                        <!-- Kategori Eklemek İçin TextBox (Başlangıçta gizli) -->
+                        <TextBox x:Name="newCategoryTextBox" Width="150" Height="30" Margin="10,0,0,0" Visibility="Collapsed" KeyDown="newCategoryTextBox_KeyDown"/>
+                        <TextBlock Text="(Olmayan kategori eklemek için + butonuna basınız.)" FontSize="10" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" Margin="0,12,0,5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,-70,10,0" VerticalAlignment="Center" Grid.Row="2">
+                    
+                    </StackPanel>
+
+                </Grid>
+
+
+
+                    <!-- Yemek Görseli -->
+                <Border Background="LightGray" Width="393" Height="350" CornerRadius="20,20,20,20" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="833,0,0,0">
+                        <!-- Recipe Image with Rounded Corners -->
+                        <Image x:Name="selectedImage" Stretch="UniformToFill">
+                            <Image.Clip>
+                                <RectangleGeometry RadiusX="15" RadiusY="15" Rect="0,0,393,350"/>
+                            </Image.Clip>
+                        </Image>
+                    </Border>
+
+                <!-- Resim Seç butonu -->
+                <Button Content="Resim Seç" Click="SelectImageButton_Click" Foreground="Black" FontSize="25" Width="150" Height="50" Margin="10,-40,0,0"/>
+            </Grid>
+
+        </Grid>
+
+        <!-- İçindekiler Bölümü -->
+        <Border Background="#FF699278" CornerRadius="20" Width="400" Height="447" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="52,331,0,0" Grid.Column="1">
+            <StackPanel Margin="10,34,10,34" Background="#FF699278">
+                <!-- Başlık -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Kind="LocalGroceryStore" Width="24" Height="28" Foreground="White" />
+                    <TextBlock Text="MALZEMELER" FontSize="24" FontWeight="Bold" Foreground="White" Margin="10,0,0,0"/>
+                </StackPanel>
+
+                <!-- Çizgi -->
+                <Border Background="White" Height="2" Width="320" HorizontalAlignment="Center" Margin="0,10,0,10"/>
+                <!-- Malzeme Ekleme Başlığı -->
+                <TextBlock Text="Malzeme eklemek için seçiniz." FontSize="16" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="10,0,10,0"/>
+                <!-- Malzemeler ComboBox -->
+                <ComboBox x:Name="malzemeComboBox" FontSize="16" Foreground="Black" Margin="5" 
+          VerticalAlignment="Top" Width="200" SelectionChanged="malzemeComboBox_SelectionChanged">
+                    <!-- ComboBox öğeleri burada dinamik olarak eklenecek -->
+                </ComboBox>
+
+                <!-- Stokta Olmayan Malzeme Ekleme Talimatı -->
+                <TextBlock Text="Stokta Olmayan malzeme eklemek" FontSize="14" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,10,0,5"/>
+                <TextBlock Text="için + tuşuna basınız." FontSize="14" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,10,0,5"/>
+
+                <!-- Yeni Malzeme Ekle Butonu -->
+                <Button Content="+" Width="30" Height="30" Margin="5" Click="YeniMalzemeEkleButton_Click"/>
+                                    
+
+                <!-- Malzemelerin listelemesi -->
+                <!-- Malzemelerin listelemesi için ScrollViewer -->
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="150">
+                    <StackPanel x:Name="malzemeListesiStackPanel">
+                        <!-- Eklenen malzemeler burada dinamik olarak görünecek -->
+                    </StackPanel>
+                </ScrollViewer>
+
+            </StackPanel>
+        </Border>
+
+
+        <!-- Tarif Bölümü -->
+        <Border Background="#F0F2F2" CornerRadius="20" Width="877" Height="389" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="457,389,0,0" Grid.Column="1">
+            <StackPanel Margin="10,34,60,34" Background="#F0F2F2">
+                <!-- Tarif Başlık -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <materialDesign:PackIcon Kind="FoodVariant" Width="24" Height="24" Foreground="Black" VerticalAlignment="Center"/>
+                    <TextBlock Text="TARİFİN YAPILIŞI" FontSize="24" FontWeight="Bold" Foreground="Black" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+
+                <!-- Çizgi -->
+                <Border Background="Black" Height="2" Width="466" HorizontalAlignment="Center" Margin="-140,10,-80,10"/>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="231" Width="720" RenderTransformOrigin="0.496,0.496">
+                    <TextBox x:Name="tarifTextBox" Text="" FontSize="18" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" AcceptsReturn="True" Background="Transparent" Foreground="Black" BorderBrush="Transparent" Height="233" Width="703"/>
+                </ScrollViewer>
+                <Button Content="Kaydet" Width="100" Height="40" HorizontalAlignment="Right" VerticalAlignment="Bottom" Foreground="Black" Margin="0,-8,10,10" Click="KaydetButton_Click"/>
+            </StackPanel>
+        </Border>
+        <Popup x:Name="gifPopup" 
+StaysOpen="False" 
+AllowsTransparency="True" 
+PopupAnimation="Fade" 
+IsOpen="False" 
+Width="1000" 
+Height="1000" 
+Placement="Center">
+            <Border Background="#FFFFFF" 
+     BorderBrush="#3A5F49" 
+     BorderThickness="2" Margin="10,110,0,200" CornerRadius="15">
+                <StackPanel >
+                    <TextBlock Text="Tarif ekleniyor..." 
+                HorizontalAlignment="Center" 
+                Margin="10" 
+                FontSize="16" 
+                FontWeight="Bold"/>
+
+                    <!-- Animated GIF Image with WpfAnimatedGif -->
+                    <Image Width="600" Height="600" 
+            Stretch="Uniform" 
+            gif:ImageBehavior.AnimatedSource="C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\giphy.gif"/>
+
+                    <!-- Close Button -->
+                    <Button Content="Kapat" 
+             Width="100" 
+             Margin="10" 
+             HorizontalAlignment="Center" 
+             Click="CloseGifPopup_Click"/>
+                </StackPanel>
+            </Border>
+        </Popup>
+
+        <!-- Küçük gri alanı kapatan ek Grid -->
+        <Grid HorizontalAlignment="Center" Height="28" VerticalAlignment="Top" Width="230" Background="#FFB3D0BE"/>
+
+    </Grid>
+</Page>

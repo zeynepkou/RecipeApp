@@ -1,0 +1,300 @@
+﻿<Page x:Class="RecipeApp.RecipeDetailPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Background="#F0F2F2">
+
+    <Page.Resources>
+        <!-- Button Style -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" CornerRadius="20" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="ToggleButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- Hover effect -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                            <!-- Pressed effect -->
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    
+    
+
+    <Grid>
+        <!-- Sidebar and Main Content -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="sidebarColumn" Width="230"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <!-- Sol Sidebar -->
+        <Border x:Name="sidebarBorder" Background="#3A5F49" CornerRadius="0,20,20,0" Width="230" VerticalAlignment="Stretch" Panel.ZIndex="1">
+            <StackPanel>
+                <!-- 3 Çizgili Menü ToggleButton -->
+                <ToggleButton x:Name="toggleSidebar" Width="40" Height="40" Margin="10" VerticalAlignment="Top" Content="☰"
+                      FontSize="18" Foreground="White" Background="Transparent" BorderBrush="Transparent"
+                      Checked="ToggleSidebar_Checked" Unchecked="ToggleSidebar_Unchecked"/>
+
+                <!-- Sidebar İçeriği -->
+                <StackPanel x:Name="sidebarContent" Visibility="Visible">
+
+                    <Button Click="AnaSayfaButton_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Home" Width="24" Height="24" VerticalAlignment="Center"/>
+                            <TextBlock Text="Ana Sayfa" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnTarifEkle_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Silverware" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Tarif Ekle" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnFavoriler_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Heart" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Favoriler" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                    <!-- Stok İşlemleri Butonu Eklendi -->
+                    <Button Click="BtnStokIslemleri_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClipboardText" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Stok İşlemleri" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- Main Content Area -->
+        <Grid Grid.Column="1">
+            <Grid Height="350" VerticalAlignment="Top">
+                <!-- Wavy Green Area Restored -->
+                <Border Background="#F0F2F2" ClipToBounds="True">
+                    <Path Fill="#B3D0BE" Data="M0,300 C300,200 1000,400 1600,290 L1600,0 L0,0 Z" VerticalAlignment="Top" Height="323" Stretch="Fill"/>
+                </Border>
+                
+                <!-- Kalp İkonu (ToggleButton olarak) -->
+                <Button x:Name="favoriButton" Width="70" Height="60" Margin="30,30,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"
+        Background="Transparent" BorderBrush="Transparent" Click="FavoriButton_Click">
+                    <Viewbox Width="70" Height="60">
+                        <!-- Boyutları artırıldı -->
+                        <Path x:Name="kalpPath" Data="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" 
+              Stroke="#FF3A5F49" StrokeThickness="2" Fill="{Binding Path=kalpFill}" />
+                    </Viewbox>
+                </Button>
+
+
+
+                <Grid Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="253,88,0,0">
+                    <!-- Recipe Name (Yemek Adı) on top -->
+                    <!-- Recipe Name (Yemek Adı) on top -->
+                    <StackPanel Orientation="Vertical" Height="203" VerticalAlignment="Top">
+                        <!-- Recipe Name Section with adjusted Margin -->
+                        <TextBlock x:Name="yemekAdiTextBlock" 
+                   Text="{Binding YemekAdi}" 
+                   HorizontalAlignment="Left" 
+                   Margin="-230,30,0,10" 
+                   FontSize="48" 
+                   FontWeight="Bold" 
+                   Foreground="Black" 
+                   Visibility="Visible"/>
+                        <TextBox x:Name="txtYemekAdi" 
+                 Text="{Binding YemekAdi}" 
+                 FontSize="48" 
+                 HorizontalAlignment="Left" 
+                 Margin="-230,30,0,10" 
+                 FontWeight="Bold" 
+                 Foreground="Black" 
+                 Visibility="Collapsed"/>
+                    </StackPanel>
+
+                    <!-- Preparation Time, Category, and Buttons -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="282,-28,0,10" Width="258">
+                        <!-- Preparation Time -->
+                        <!-- Preparation Time -->
+                        <StackPanel Orientation="Horizontal" Margin="-20,10,0,0">
+                            <materialDesign:PackIcon Kind="Clock" Width="28" Height="28" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <TextBlock Text="Hazırlanma Süresi:" FontSize="20" FontWeight="Bold" Foreground="Black"/>
+                            <TextBlock x:Name="sureTextBlock" Text="{Binding HazırlamaSuresi}" FontSize="20" Foreground="Black" Margin="5,0,0,0" Visibility="Visible"/>
+                            <TextBox x:Name="txtSure" Text="{Binding HazırlamaSuresi}" FontSize="20" Foreground="Black" Margin="5,0,0,0" Visibility="Collapsed"/>
+                            <TextBlock Text="dk" FontSize="20" Foreground="Black" Margin="5,0,0,0"/>
+                            <!-- Added "dk" here -->
+                        </StackPanel>
+
+
+                        <!-- Category -->
+                        <StackPanel Orientation="Horizontal" Margin="-17,10,0,0">
+                            <materialDesign:PackIcon Kind="BookOpenVariant" Width="28" Height="28" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <TextBlock Text="Kategori:" FontSize="20" FontWeight="Bold" Foreground="Black"/>
+                            <TextBlock x:Name="kategoriTextBlock" Text="{Binding Kategori}" FontSize="20" Foreground="Black" Margin="5,0,0,0"/>
+                            <ComboBox x:Name="cmbKategori" FontSize="20" Foreground="Black" Visibility="Collapsed" Width="200"/>
+                        </StackPanel>
+
+                        <!-- Buttons for Edit, Delete, Save, and Cancel (Moved below Preparation Time and Category) -->
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,20,0,0" Height="121">
+                            <Button x:Name="btnEdit" Content="Düzenle" Width="100" Background="#FF3A5F49" Foreground="White" Click="BtnEdit_Click"/>
+                            <Button x:Name="btnDelete" Content="Sil" Width="100" Background="Red" Foreground="White" Margin="10,0,0,0" Click="BtnDelete_Click"/>
+                            <Button x:Name="btnSave" Content="Kaydet" Width="100" Background="#FF3A5F49" Foreground="White" Visibility="Collapsed" Click="BtnSave_Click"/>
+                            <Button x:Name="btnCancel" Content="İptal" Width="100" Background="Red"  Foreground="White" Visibility="Collapsed" Margin="10,0,0,0" Click="BtnCancel_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+
+
+                <!-- Recipe Image and Change Image Button -->
+                
+                    <!-- Recipe Image with Rounded Corners and Change Image Button -->
+                    <Grid Width="393" Height="350" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="833,0,0,0">
+                        <!-- Recipe Image with Rounded Corners -->
+                        <Image x:Name="yemekImage" Stretch="UniformToFill">
+                            <Image.Clip>
+                                <RectangleGeometry RadiusX="15" RadiusY="15" Rect="0,0,393,350"/>
+                            </Image.Clip>
+                        </Image>
+
+                        <!-- Button to Change Image -->
+                    <Button x:Name="ChangeImageButton" Content="Resmi Değiştir" Width="150" Foreground="Black"  Margin="-38" Click="ChangeImage_Click" Visibility="Collapsed" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </Grid>
+
+                
+
+            </Grid>
+
+            <Border Background="#FF699278" CornerRadius="20" Width="400" Height="447" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="52,331,0,0" Grid.Column="1">
+                <!-- Bir StackPanel veya Grid ekleyerek birden fazla öğeyi içeride tutabiliriz -->
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="400">
+                    <!-- Tüm alanları kapsayan ScrollViewer -->
+                    <StackPanel Margin="10,34,10,34" Background="#FF699278">
+                        <!-- Malzeme Başlık -->
+                        <TextBlock Text="MALZEMELER" FontSize="24" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center"/>
+                        <Border Background="White" Height="2" Width="320" HorizontalAlignment="Center" Margin="0,10,0,10"/>
+
+                        <!-- Mevcut malzemeler buraya dinamik olarak eklenecek -->
+                        <StackPanel x:Name="malzemeStackPanel" />
+
+                        <!-- Kaydedilmeden önce geçici olarak eklenen malzemeler -->
+                        <StackPanel x:Name="addedIngredientsPanel" Margin="10" Visibility="Collapsed"/>
+
+                        <!-- Yeni Malzeme Ekleme Alanı (Başlangıçta Gizli) -->
+                        <StackPanel x:Name="newIngredientPanel" Orientation="Vertical" Visibility="Collapsed" Margin="10" HorizontalAlignment="Center">
+
+                            <!-- Malzeme Ekleme Başlığı -->
+                            <TextBlock Text="Malzeme eklemek için seçiniz." FontSize="16" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="10,0,10,0"/>
+
+                            <!-- ComboBox for ingredient selection, Centered -->
+                            <ComboBox x:Name="cmbMalzemeler" Width="200" SelectionChanged="cmbMalzemeler_SelectionChanged" HorizontalAlignment="Center" />
+
+                            <!-- Grid Yapısı: Miktar ve Birim Yan Yana -->
+                            <Grid HorizontalAlignment="Center" Margin="0,10,0,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Miktar Giriş Alanı -->
+                                <TextBox x:Name="txtMalzemeMiktar" Width="100" Visibility="Collapsed" Grid.Column="0" Margin="0,0,10,0"/>
+
+                                <!-- Birim Bilgisi -->
+                                <TextBlock x:Name="txtMalzemeBirim" FontSize="16" FontWeight="Bold" Foreground="White" Visibility="Collapsed" Grid.Column="1"/>
+                            </Grid>
+
+                            <!-- Ekle Butonu, Ortalanmış -->
+                            <!-- Button to add ingredient -->
+                            <Button x:Name="btnAddIngredient" Content="Ekle" Click="BtnAddIngredient_Click" Visibility="Collapsed"/>
+
+                            <!-- Stokta Olmayan Malzeme Ekleme Talimatı -->
+                            <TextBlock Text="Stokta Olmayan malzeme eklemek" FontSize="14" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,10,0,5"/>
+                            <TextBlock Text="için + tuşuna basınız." FontSize="14" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,10,0,5"/>
+                            <Button Content="+" Width="30" Height="30" Click="YeniMalzemeEkleButton_Click" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+
+            </Border>
+
+
+
+            <!-- Recipe Instructions Section with Header and ScrollViewer -->
+            <Border Background="#F0F2F2" CornerRadius="20" Width="877" Height="389" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="457,389,0,0" Grid.Column="1">
+                <StackPanel Margin="10,34,60,34" Background="#F0F2F2">
+                    <!-- Recipe Instructions Header -->
+                    <!-- Tarif Başlık -->
+                    <TextBlock Text="TARİFİN YAPILIŞI" FontSize="24" FontWeight="Bold" Foreground="Black" Width="318" />
+
+                    <!-- Çizgi -->
+                    <Border Background="Black" Height="2" Width="466" HorizontalAlignment="Center" Margin="-140,10,0,10"/>
+
+                    <!-- ScrollViewer containing both TextBlock and TextBox -->
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Height="250" Width="746">
+                        <Grid>
+                            <!-- Non-editable and editable fields for Recipe Instructions -->
+                            <TextBlock x:Name="tarifTextBlock" Text="{Binding Talimatlar}" FontSize="18" Foreground="Black" Padding="10" TextWrapping="Wrap" Visibility="Visible"/>
+
+                            <!-- Düzenleme modundayken de kaydırma çubuğu olan TextBox -->
+                            <TextBox x:Name="txtTarif" Text="{Binding Talimatlar}" FontSize="18" Foreground="Black" Visibility="Collapsed" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" Height="240"/>
+                        </Grid>
+                    </ScrollViewer>
+
+
+                </StackPanel>
+            </Border>
+
+        </Grid>
+        <!-- Küçük gri alanı kapatan ek Grid -->
+        <Grid HorizontalAlignment="Center" Height="28" VerticalAlignment="Top" Width="230" Background="#FFB3D0BE"/>
+    </Grid>
+</Page>

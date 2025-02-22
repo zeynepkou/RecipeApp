@@ -1,0 +1,670 @@
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\source\repos\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Lab\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Lab\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\ablam\RecipeApp\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\İşaret ve Sistemler\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.exe
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll.config
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.deps.json
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.runtimeconfig.json
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.baml
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\FavoritesPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeAddPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeDetailPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\StokPage.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\YeniMalzemeEkle.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp_MarkupCompile.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.g.resources
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.AssemblyInfo.cs
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.csproj.Up2Date
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\refint\RecipeApp.dll
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.pdb
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\RecipeApp.genruntimeconfig.cache
+C:\Users\HpNtb\OneDrive\Masaüstü\YAZLABLAR\RecipeApp\RecipeApp\RecipeApp\obj\Debug\net8.0-windows\ref\RecipeApp.dll

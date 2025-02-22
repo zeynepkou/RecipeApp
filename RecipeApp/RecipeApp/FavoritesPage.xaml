@@ -1,0 +1,126 @@
+﻿<Page x:Class="RecipeApp.FavoritesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Background="#B3D0BE">
+
+    <!-- Pastel yeşil arka plan -->
+
+    <Page.Resources>
+        <!-- Button Style -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" CornerRadius="20" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                                <Setter TargetName="border" Property="CornerRadius" Value="20"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="ToggleButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- Hover effect -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                            <!-- Pressed effect -->
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#2E4F3F"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <DockPanel LastChildFill="True">
+        
+        <!-- Sidebar -->
+        <Border x:Name="sidebarBorder" Background="#3A5F49" CornerRadius="0,20,20,0" Width="230" VerticalAlignment="Stretch">
+            <StackPanel>
+                <!-- 3 Çizgili Menü ToggleButton -->
+                <ToggleButton x:Name="toggleSidebar" Width="40" Height="40" Margin="10" VerticalAlignment="Top" Content="☰"
+                      FontSize="18" Foreground="White" Background="Transparent" BorderBrush="Transparent"
+                      Checked="ToggleSidebar_Checked" Unchecked="ToggleSidebar_Unchecked"/>
+
+                <!-- Sidebar İçeriği -->
+                <StackPanel x:Name="sidebarContent" Visibility="Visible">
+
+                    <Button Click="AnaSayfaButton_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Home" Width="24" Height="24" VerticalAlignment="Center"/>
+                            <TextBlock Text="Ana Sayfa" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnTarifEkle_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Silverware" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Tarif Ekle" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Click="BtnFavoriler_Click" Background="#2E4F3F">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Heart" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Favoriler" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                    <!-- Stok İşlemleri Butonu Eklendi -->
+                    <Button Click="BtnStokIslemleri_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClipboardText" Width="24" Height="24" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Stok İşlemleri" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+
+        <!-- Ana İçerik -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel Margin="10">
+                <!-- Favori Tarif Kartları -->
+                <WrapPanel x:Name="wrapPanelFavoriler">
+                    <!-- Kartlar Dinamik Olarak Eklenecek -->
+                </WrapPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </DockPanel>
+</Page>
